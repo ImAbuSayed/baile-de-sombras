@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Baile de sombras
+
+This log tracks the cryptographic history and versioning for the song **Baile de sombras** (baile-de-sombras).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T21:59:41.336254 | `v1` | `69e8072039f6e4528d8f0f0a41629b516e8f05852dcfc96d96269ec13465e707` | `26f867bec04d3bea6a458d7900f6091565a2dee3f2f9fa1143a7d0785d45f6f7` | `2026-06-15_baile-de-sombras-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
