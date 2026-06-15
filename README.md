@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/baile-de-sombras/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Baile de sombras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/baile-de-sombras/) |
+| **Get License** | [Secure Licensing Rights for Baile de sombras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/baile-de-sombras/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, tú brillas más que la luna de Madrid,
+> Esa mirada oscura me tiene loco por ti,
+> Un baile de sombras y yo me quiero perder,
+> En el calor de tu piel hasta el amanecer.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
